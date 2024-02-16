@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Sports News | Breaking & Latest Sports News | Reuters",
+      "description": "Find latest sports news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "url": "https://www.reuters.com/sports/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=172",
+      "publishedAt": "2024-01-16T17:22:25.7594988Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news-fr", "name": "Google News (France)" },
+      "author": "actu.fr",
+      "title": "Alerte orange neige-verglas : les transports scolaires annulés mercredi en Lorraine - actu.fr",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL2FjdHUuZnIvc29jaWV0ZS9hbGVydGUtb3JhbmdlLW5laWdlLXZlcmdsYXMtbGVzLXRyYW5zcG9ydHMtc2NvbGFpcmVzLWFubnVsZXMtbWVyY3JlZGktZW4tbWV1cnRoZS1ldC1tb3NlbGxlXzYwNTcwMDE1Lmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-01-16T15:24:05+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "Josh Fordham",
+      "title": "Manchester United release statement after journalists ‘banned’ from press conference...",
+      "description": "Manchester United explained why four journalists were banned from an Erik ten Hag press conference on Tuesday. Sky Sports chief reporter Kaveh Solhekhol, the Manchester Evening News’ Samuel L…",
+      "url": "https://talksport.com/football/1666142/man-utd-journalists-banned-press-conference-erik-ten-hag/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/10/228f511f-c84a-48e8-b067-5c7277d90984.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2023-12-05T12:12:06Z",
+      "content": "Manchester United explained why four journalists were banned from an Erik ten Hag press conference on Tuesday.\r\nSky Sports chief reporter Kaveh Solhekhol, the Manchester Evening News' Samuel Luckhurs… [+820 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "New Micah Parsons Show ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.6381564Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": " Mikal Bridges Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.3882176Z",
+      "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters Graphics",
+      "title": "Reuters Graphics - Charts, Maps, Interactive Graphics and Videos",
+      "description": "The latest world news - politics, sports, culture, science and environment - from our graphics journalists in Singapore, Bangalore, London and New York.",
+      "url": "https://www.reuters.com/graphics/",
+      "urlToImage": "https://www.reuters.com/graphics/cdn/img/home.jpg",
+      "publishedAt": "2020-12-21T00:00:00Z",
+      "content": null
+    }
+  ]
+}
